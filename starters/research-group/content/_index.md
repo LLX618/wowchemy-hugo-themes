@@ -8,21 +8,18 @@ sections:
   - block: hero
     content:
       title: |
-        Wowchemy
-        Research Group
+        建筑与市政公用设施智慧运维性态全息快速感知与多源异构数据融合
       image:
-        filename: welcome.jpg
+        filename: jishuluxian.png
       text: |
-        <br>
-        
-        The **Wowchemy Research Group** has been a center of excellence for Artificial Intelligence research, teaching, and practice since its founding in 2016.
+        本课题为国家重点研发计划项目**建筑与市政公用设施智慧运维理论与方法（2022YFC3801100）** 中的子课题二，针对建筑与市政公用设施多源异构运维大数据的<b>统一编码</b>与<b>关联融合</b>机制，研究基于分布式边缘计算与网联架构的多源异构运维数据<b>快速感知</b>和<b>近实时传输技术。</b>
   
   - block: collection
     content:
-      title: Latest News
+      title: 专题详情
       subtitle:
       text:
-      count: 5
+      count: 8
       filters:
         author: ''
         category: ''
