@@ -2,11 +2,10 @@
 title: 专题二：面向多源运维数据的分布式边缘计算体系与网联架构
 date: 2020-12-01
 ---
-
+研发新型边缘智能体和边缘节点架构，研究资源配置优化模型和自适应网络动态调度方法，搭建基于分布式边缘计算体系的智能网联架构。
 <!--more-->
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer tempus augue non tempor egestas. Proin nisl nunc, dignissim in accumsan dapibus, auctor ullamcorper neque. Quisque at elit felis. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Aenean eget elementum odio. Cras interdum eget risus sit amet aliquet. In volutpat, nisl ut fringilla dignissim, arcu nisl suscipit ante, at accumsan sapien nisl eu eros.
+研发新型边缘智能体和边缘节点架构，深入分析运维数据的特征及其数据感知和获取的技术方案，研究连接核心云和终端间链路上的新型边缘智能体性能优化技术，提升边缘硬件设备的存储和计算能力；优化数据传输路径与传输方式，建立一套新型的边缘节点架构，实现“云边端”协同框架下端部节点资源的高效管理利用。
 
-Sed eu dui nec ligula bibendum dapibus. Nullam imperdiet auctor tortor, vel cursus mauris malesuada non. Quisque ultrices euismod dapibus. Aenean sed gravida risus. Sed nisi tortor, vulputate nec quam non, placerat porta nisl. Nunc varius lobortis urna, condimentum facilisis ipsum molestie eu. Ut molestie eleifend ligula sed dignissim. Duis ut tellus turpis. Praesent tincidunt, nunc sed congue malesuada, mauris enim maximus massa, eget interdum turpis urna et ante. Morbi sem nisl, cursus quis mollis et, interdum luctus augue. Aliquam laoreet, leo et accumsan tincidunt, libero neque aliquet lectus, a ultricies lorem mi a orci.
+研究资源配置优化模型和自适应网络动态调度方法，研究设备资源状态感知技术、网联架构内各节点以及节点间路径的资源优化分配机制，建立用户侧和边缘侧网络“传输-计算-存储”资源配置优化模型，提出自适应边缘计算体系的网络动态调度方法。
 
-Mauris dapibus sem vel magna convallis laoreet. Donec in venenatis urna, vitae sodales odio. Praesent tortor diam, varius non luctus nec, bibendum vel est. Quisque id sem enim. Maecenas at est leo. Vestibulum tristique pellentesque ex, blandit placerat nunc eleifend sit amet. Fusce eget lectus bibendum, accumsan mi quis, luctus sem. Etiam vitae nulla scelerisque, eleifend odio in, euismod quam. Etiam porta ullamcorper massa, vitae gravida turpis euismod quis. Mauris sodales sem ac ultrices viverra. In placerat ultrices sapien. Suspendisse eu arcu hendrerit, luctus tortor cursus, maximus dolor. Proin et velit et quam gravida dapibus. Donec blandit justo ut consequat tristique.

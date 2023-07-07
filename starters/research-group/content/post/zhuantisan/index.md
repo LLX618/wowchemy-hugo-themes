@@ -2,11 +2,11 @@
 title: 专题三：面向多源异构运维数据的融合模型与管理方法
 date: 2020-11-30
 ---
-
+建立面向多源异构运维数据的融合模型，提出基于数据动态匹配的融合机制与算法，搭建基于数据融合的智能运维数据服务。
 <!--more-->
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer tempus augue non tempor egestas. Proin nisl nunc, dignissim in accumsan dapibus, auctor ullamcorper neque. Quisque at elit felis. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Aenean eget elementum odio. Cras interdum eget risus sit amet aliquet. In volutpat, nisl ut fringilla dignissim, arcu nisl suscipit ante, at accumsan sapien nisl eu eros.
+建立面向多源异构运维数据的融合模型，综合考虑异构数据源的差异性、完整性、时效性等特性，全面深入分析运维数据的组成、特征、内涵、形式和应用模式，研究多源异构运维数据的语义、逻辑和框架体系，基于协同国际和国内数据标准的原则和统一方法，定义标准化数据描述与表达方法，建立融合数据大纲，从而建立多源异构运维数据融合模型。
 
-Sed eu dui nec ligula bibendum dapibus. Nullam imperdiet auctor tortor, vel cursus mauris malesuada non. Quisque ultrices euismod dapibus. Aenean sed gravida risus. Sed nisi tortor, vulputate nec quam non, placerat porta nisl. Nunc varius lobortis urna, condimentum facilisis ipsum molestie eu. Ut molestie eleifend ligula sed dignissim. Duis ut tellus turpis. Praesent tincidunt, nunc sed congue malesuada, mauris enim maximus massa, eget interdum turpis urna et ante. Morbi sem nisl, cursus quis mollis et, interdum luctus augue. Aliquam laoreet, leo et accumsan tincidunt, libero neque aliquet lectus, a ultricies lorem mi a orci.
+提出基于数据动态匹配的融合机制与算法，针对运维过程语义约束的图形图像、点云、BIM模型等多维度静态数据，以及航拍视频、定点监控数据和高维信号等大容量动态数据，研究以上时变异构数据在指征统一对象时的特征表达、转换对齐、视觉匹配方法，综合考虑多端采集、边缘计算及动态调度的耦合效应，从时空关联特性、对象识别和模式匹配算法等方面，提出多源异构数据的融合机制与方法，在“云-边-端”协同框架下实现多源异构运维数据的动态融合。
 
-Mauris dapibus sem vel magna convallis laoreet. Donec in venenatis urna, vitae sodales odio. Praesent tortor diam, varius non luctus nec, bibendum vel est. Quisque id sem enim. Maecenas at est leo. Vestibulum tristique pellentesque ex, blandit placerat nunc eleifend sit amet. Fusce eget lectus bibendum, accumsan mi quis, luctus sem. Etiam vitae nulla scelerisque, eleifend odio in, euismod quam. Etiam porta ullamcorper massa, vitae gravida turpis euismod quis. Mauris sodales sem ac ultrices viverra. In placerat ultrices sapien. Suspendisse eu arcu hendrerit, luctus tortor cursus, maximus dolor. Proin et velit et quam gravida dapibus. Donec blandit justo ut consequat tristique.
+搭建基于数据融合的智能运维数据服务，面向多源海量模型数据和多端应用需求，研究基于云计算平台的数据动态存储与管理技术、图形图像轻量化技术，研发基于数据中台和微服务架构的数据接口，实现集成高效融合算法、目标识别算法的后台计算服务，作为“云边端”协同架构下的“大脑”，支撑智能的运维数据挖掘，提高运维数据的应用价值。
