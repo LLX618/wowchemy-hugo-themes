@@ -9,33 +9,23 @@ sections:
     content:
       slides:
       - title: 👋 Welcome to the group
-        content: Take a look at what we're working on...
+        content: 本课题为国家重点研发计划项目<b>建筑与市政公用设施智慧运维理论与方法（2022YFC3801100）</b>中的子课题二，针对建筑与市政公用设施多源异构运维大数据的<b>统一编码</b>与<b>关联融合</b>机制，研究基于分布式边缘计算与网联架构的多源异构运维数据<b>快速感知</b>和<b>近实时传输技术。</b>
         align: center
         background:
           image:
-            filename: coders.jpg
+            filename: jishuluxian.png
             filters:
-              brightness: 0.7
+              brightness: 0.4
           position: right
           color: '#666'
-      - title: Lunch & Learn ☕️
-        content: 'Share your knowledge with the group and explore exciting new topics together!'
-        align: left
+      - title: 建筑与市政公用设施智慧运维理论与方法
+        content: 建筑与市政公用设施智慧运维性态全息快速感知与多源异构数据融合
+        align: center
         background:
           image:
-            filename: contact.jpg
+            filename: huzhenzhong.png
             filters:
-              brightness: 0.7
-          position: center
-          color: '#555'
-      - title: World-Class Semiconductor Lab
-        content: 'Just opened last month!'
-        align: right
-        background:
-          image:
-            filename: welcome.jpg
-            filters:
-              brightness: 0.5
+              brightness: 0.4
           position: center
           color: '#333'
         link:

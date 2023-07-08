@@ -4,7 +4,7 @@ title: 马琳
 
 # Full Name (for SEO)
 first_name: Lin
-last_name: Ma
+last_name: a_Ma
 
 # Is this the primary user of the site?
 superuser: false
@@ -69,7 +69,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Researchers
+  - 专题负责人
 ---
 
 专题一负责人马琳及其所在课题组在未知环境探测等相关领域如定位导航、计算机视觉分析等进行了多年的基础研究和应用开发，获得了丰富的研究经验并积累一定的研究成果。同时，在自组织网络和无线信号处理方面近几年也已经做了很多研究工作。这些工作基础为本项目的顺利进行提供了有力保障。与本项目有关的工作基础可以归结为以下几个方面：
