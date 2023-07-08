@@ -3,6 +3,10 @@ title: 专题一：多源运维数据的全息智能采集与多维实时感知�
 date: 2022-12-04
 image:
   focal_point: 'top'
+url_code: ''
+url_pdf: 'pdf/课题二专题1 开题报告.pdf'
+url_slides: 'slides/课题二启动会-专题1.pptx'
+url_video: ''
 ---
 <div style="text-justify:auto">研究基于天基卫星快速解译、空基多智能体协同巡检以及地基IOT群体传感的空天地一体化运维性态信息的实时智能感知方法，研发基于网联资源调度的“端-边”数据校验与保障算法，研究基于多智能体无人系统的多源运维数据感知方法。</div>
 <!--more-->

@@ -13,6 +13,7 @@ sections:
       user_groups:
           - 课题负责人
           - 专题负责人
+          - 研究人员
       sort_by: Params.last_name
       sort_ascending: true
     design:

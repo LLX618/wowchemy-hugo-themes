@@ -10,7 +10,7 @@ last_name: d_An
 superuser: false
 
 # Role/position
-role: 交通运输工程
+role: 交通运输规划与管理
 
 # Organizations/Affiliations
 organizations:
